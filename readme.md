@@ -1,7 +1,7 @@
 
 # News Grid Responsive Website
- A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic]()
+ A Responsive News Grid Website
+ ![title-pic](newsgridresponsive.png)
  This is a News Grid Website. The logic is very simple with the minimum lines of code possible.
  
 ## Steps to execute this Website:
@@ -12,3 +12,6 @@
 ## Technologies used: 
 - HTML
 - CSS [Grid/Flexbox/Media Queries]
+  
+## Full Page:
+![title-pic](newsgridfullpage.png)
